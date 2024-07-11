@@ -1,0 +1,47 @@
+.container-fluid {
+    padding: 0px !important;
+}
+
+.navbar-brand {
+    color: black !important;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.navbar-toggler {
+    background-color: black !important;
+}
+
+.nav-link {
+    color: black !important;
+    font-weight: bold;
+}
+
+.min-height-200px {
+    background: linear-gradient(#000, #0008), url('images/backgrund.jpg');
+    height: 70vh;
+    background-repeat: no-repeat;
+    background-position: center, top;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.mb-40 {
+    margin: 15px 0px !important;
+    text-transform: uppercase;
+}
+
+.pp2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100%;
+}
+
+.description {
+    margin: 15px 0px;
+    text-align: center;
+    font-size: 19px;
+    font-weight: bold;
+}
